@@ -31,16 +31,6 @@ The schema supports multi-dimensional analysis such as sales by product, region,
 8. Which cities have the highest average sales per order?  
 9. Compare region-wise sales vs. profit — which region is most efficient?  
 10. What is the average discount percentage by country or region?  
-11. Which customer segment drives the highest total sales?  
-12. Which customers generated the highest lifetime value (LTV)?  
-13. What is the average order value per customer segment?  
-14. Which customer segments respond best to discounts?  
-15. Which shipping mode is most profitable?  
-16. What is the average delivery time per shipping mode?  
-17. Does discount level affect shipping preference?  
-18. What is the total sales and profit by order priority?  
-19. What are the monthly and yearly sales trends?  
-20. Which months or quarters consistently show peak performance?
 
 ---
 
